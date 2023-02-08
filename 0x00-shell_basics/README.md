@@ -23,3 +23,5 @@ changing the working directory to the previous one
 a script to list all files in the current, parent and /boot directory including hidden files in a log format
 
 a script that prints the type of file named iamafile
+
+create a symbolic link

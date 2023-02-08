@@ -13,3 +13,5 @@ a script that displays current directory content including hidden files in a lon
 a script that creates a directory named my_first_directory in the /tmp/ directory
 
 a script to move betty from /tmp to /tmp/my_first_directory
+
+delete the file betty

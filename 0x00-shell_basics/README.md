@@ -34,4 +34,6 @@ delete all files ending with ~ in the current working directory
 
 a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
 
-a magic file 
+a magic file
+
+sires of commands 

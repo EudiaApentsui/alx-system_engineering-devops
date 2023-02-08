@@ -26,4 +26,6 @@ a script that prints the type of file named iamafile
 
 create a symbolic link
 
-script that copies HTML files 
+script that copies HTML files
+
+move all files beginning with an uppercase letter to the directory /tmp/u 

@@ -7,3 +7,5 @@ a script that changes the working directory to the user’s home directory
 a script that displays current directory contents in a long format
 
 a script that display current directory contents, including hidden files using the long format
+
+a script that displays current directory content including hidden files in a long format with the user and group IDs in numbers

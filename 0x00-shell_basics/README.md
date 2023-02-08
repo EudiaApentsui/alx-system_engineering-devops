@@ -17,3 +17,5 @@ a script to move betty from /tmp to /tmp/my_first_directory
 delete the file betty
 
 delete my_first_directory in the /tmp directory
+
+changing the working directory to the previous one

@@ -28,4 +28,6 @@ create a symbolic link
 
 script that copies HTML files
 
-move all files beginning with an uppercase letter to the directory /tmp/u 
+move all files beginning with an uppercase letter to the directory /tmp/u
+
+delete all files ending with ~ in the current working directory 

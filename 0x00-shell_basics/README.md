@@ -30,4 +30,6 @@ script that copies HTML files
 
 move all files beginning with an uppercase letter to the directory /tmp/u
 
-delete all files ending with ~ in the current working directory 
+delete all files ending with ~ in the current working directory
+
+a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory 

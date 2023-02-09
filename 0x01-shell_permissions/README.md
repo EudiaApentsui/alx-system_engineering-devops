@@ -15,3 +15,5 @@ Add execute permission to u and g and read permission to o
 Add execution permission to all
 
 Give all permissions to only other users
+
+Change mode of hello without commas

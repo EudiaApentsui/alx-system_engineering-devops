@@ -22,4 +22,6 @@ Mirror a files permission
 
 Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 
-Create a directory called my_dir with permissions 751 in the working directory 
+Create a directory called my_dir with permissions 751 in the working directory
+
+changes the group owner for a file  

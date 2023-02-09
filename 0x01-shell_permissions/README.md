@@ -28,4 +28,6 @@ changes the group owner for a file
 
 Change owner and group owner for all files and directories
 
-Changes the owner and the group owner of _hello to vincent and staff respectively 
+Changes the owner and the group owner of _hello to vincent and staff respectively
+
+Change if only owned by user 

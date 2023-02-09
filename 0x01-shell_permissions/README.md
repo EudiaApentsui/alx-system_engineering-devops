@@ -24,4 +24,6 @@ Adds execute permission to all subdirectories of the current directory for the o
 
 Create a directory called my_dir with permissions 751 in the working directory
 
-changes the group owner for a file  
+changes the group owner for a file
+
+Change owner and group owner for all files and directories  

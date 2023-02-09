@@ -6,4 +6,6 @@ Prints all the groups the current user is part of
 
 Change the owner of a file
 
-Create an empty file named 
+Create an empty file named
+
+Add execute permission to a file 

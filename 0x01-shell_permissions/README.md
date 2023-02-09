@@ -17,3 +17,5 @@ Add execution permission to all
 Give all permissions to only other users
 
 Change mode of hello without commas
+
+Mirror a files permission 

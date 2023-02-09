@@ -26,4 +26,6 @@ Create a directory called my_dir with permissions 751 in the working directory
 
 changes the group owner for a file
 
-Change owner and group owner for all files and directories  
+Change owner and group owner for all files and directories
+
+Changes the owner and the group owner of _hello to vincent and staff respectively 

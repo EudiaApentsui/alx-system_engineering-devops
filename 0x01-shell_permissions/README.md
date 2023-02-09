@@ -8,4 +8,6 @@ Change the owner of a file
 
 Create an empty file named
 
-Add execute permission to a file 
+Add execute permission to a file
+
+Add execute permission to u and g and read permission to o 

@@ -7,3 +7,5 @@ Display content of a file
 
 Display content of two files
 
+Display last ten lines of a file
+

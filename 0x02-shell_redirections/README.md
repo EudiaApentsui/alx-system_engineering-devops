@@ -5,3 +5,5 @@ A script that displays a confused smiley
 
 Display content of a file
 
+Display content of two files
+

@@ -12,3 +12,5 @@ Display last ten lines of a file
 Display first ten lines of a file
 
 Display the third line of a file
+
+A scrit that creats a file and its content

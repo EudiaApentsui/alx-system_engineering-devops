@@ -1,2 +1,3 @@
 #!/bin/bash
-find . -type d ! -path . | wc -1
+i>>>>>> update_script
+find . -type d ! -path . -print | wc -1

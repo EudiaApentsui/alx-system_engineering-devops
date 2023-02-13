@@ -16,3 +16,5 @@ Display the third line of a file
 A scrit that creats a file and its content
 
 Write the result of a command in a file, overwrite if file existm if not create
+
+A script that duplicates the last line of a file 

@@ -20,3 +20,5 @@ Write the result of a command in a file, overwrite if file existm if not create
 A script that duplicates the last line of a file 
 
 Deletes all the regular files (not the directories) with a .js in current directory and sub folders
+
+A script that counts the number of directories and subs, hidden inclusive 

@@ -26,4 +26,6 @@ a script that prints all possible combinations of two letters, except oo
 
 floats
 
-Q script that converts numbers from base 10 to base 16 
+A script that converts numbers from base 10 to base 16
+
+A script that encodes and decodes text using the rot13 encryption 

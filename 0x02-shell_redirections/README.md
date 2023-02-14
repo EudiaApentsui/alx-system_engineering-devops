@@ -23,4 +23,6 @@ Deletes all the regular files (not the directories) with a .js in current direct
 
 A script that counts the number of directories and subs, hidden inclusive
 
-A script that displays the 10 newest files in a directory  
+A script that displays the 10 newest files in a directory
+
+a script that takes a list of words as input and prints only words that appear exactly once  

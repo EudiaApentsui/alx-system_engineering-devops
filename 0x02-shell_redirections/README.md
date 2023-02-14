@@ -27,4 +27,6 @@ A script that displays the 10 newest files in a directory
 
 a script that takes a list of words as input and prints only words that appear exactly once
 
-Display lines containing the pattern “root” from a file  
+Display lines containing the pattern “root” from a file
+
+Display the number of lines that contain the pattern “bin” in a file  

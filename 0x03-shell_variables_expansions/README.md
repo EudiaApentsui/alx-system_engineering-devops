@@ -24,4 +24,6 @@ A script that converts a number from base 2 to base 10
 
 a script that prints all possible combinations of two letters, except oo
 
-floats 
+floats
+
+Q script that converts numbers from base 10 to base 16 

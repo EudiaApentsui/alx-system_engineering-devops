@@ -29,4 +29,6 @@ a script that takes a list of words as input and prints only words that appear e
 
 Display lines containing the pattern “root” from a file
 
-Display the number of lines that contain the pattern “bin” in a file  
+Display the number of lines that contain the pattern “bin” in a file
+
+Display lines containing the pattern “root” and 3 lines after them in a file  

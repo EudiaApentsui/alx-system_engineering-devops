@@ -28,4 +28,6 @@ floats
 
 A script that converts numbers from base 10 to base 16
 
-A script that encodes and decodes text using the rot13 encryption 
+A script that encodes and decodes text using the rot13 encryption
+
+A script that prints every other line from input starting with the first line 

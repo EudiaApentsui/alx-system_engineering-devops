@@ -21,4 +21,6 @@ A script that duplicates the last line of a file
 
 Deletes all the regular files (not the directories) with a .js in current directory and sub folders
 
-A script that counts the number of directories and subs, hidden inclusive 
+A script that counts the number of directories and subs, hidden inclusive
+
+A script that displays the 10 newest files in a directory  
